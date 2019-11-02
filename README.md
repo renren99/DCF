@@ -1,2 +1,0 @@
-# DCF
-DCF法のandroidアプリ
